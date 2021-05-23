@@ -1,4 +1,4 @@
-# Rules
+# Rules:
 1. King,Queen and Jack each will carry 10 points
 2. Ace can carry value of 1 or 11 which ever is ideal
 3. Who ever Player or Dealer is nearer to 21 or equal to 21 wins the round
