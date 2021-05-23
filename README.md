@@ -6,6 +6,6 @@
 
   * install git
   * `git clone https://github.com/8-ctrl/CLI-BlackJack-Game.git`
-  * `python main` (to run code, you would be using python3) 
+  * `python main.py` (to run code, you would be using python3) 
 
 * [Rules](https://github.com/8-ctrl/CLI-BlackJack-Game/blob/main/RULES.MD)
