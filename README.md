@@ -8,4 +8,4 @@
   * `git clone https://github.com/8-ctrl/CLI-BlackJack-Game.git`
   * `python main` (to run code, you would be using python3) 
 
-* [Rules are mentioned in: ](CLI-BlackJack-Game/RULES.MD)
+* [Rules](https://github.com/8-ctrl/CLI-BlackJack-Game/blob/main/RULES.MD)
