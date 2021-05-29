@@ -1,5 +1,5 @@
 # CLI-BlackJack-Game
-## This is a CLI version of the classic BlackJack Game you place your bet every round and if you win you win double the amount.
+## This is a CLI version of the classic BlackJack Game.You place your bet every round and if you win you win double the amount.
 
 --- 
 ### SETUP THE GAME CODE.
